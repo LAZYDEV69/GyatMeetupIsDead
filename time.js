@@ -1,4 +1,4 @@
-const lastGyatMeetup = new Date("2025-06-04");
+const lastGyatMeetup = new Date("2025-11-01");
 
 function updateTime() {
   const now = new Date();
